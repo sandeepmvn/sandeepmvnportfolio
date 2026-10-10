@@ -1,0 +1,25 @@
+{
+  "blog": [
+    {
+      "slug": "azure-ai-workflows",
+      "title": "Building AI Workflows on Azure Without Losing Engineering Discipline",
+      "summary": "Practical patterns for adding AI to business workflows while keeping systems observable, testable, and maintainable.",
+      "date": "2026-02-10",
+      "tags": ["Azure", "AI", "Architecture"]
+    },
+    {
+      "slug": "cloud-native-dotnet",
+      "title": "Cloud-Native .NET Systems That Stay Maintainable",
+      "summary": "A short architecture note on boundaries, deployment ergonomics, and operational clarity for ASP.NET Core systems.",
+      "date": "2026-01-28",
+      "tags": [".NET", "Azure", "Backend"]
+    },
+    {
+      "slug": "react-enterprise-ui",
+      "title": "Designing React Interfaces For Enterprise Workflows",
+      "summary": "Notes on building frontend experiences that support scanning, repeated action, and reliable decision-making.",
+      "date": "2025-12-18",
+      "tags": ["React", "TypeScript", "Frontend"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="smwebapp.client/smwebapp.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SMWebApp.Server/SMWebApp.Server.csproj" />
+</Solution>
